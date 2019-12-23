@@ -19,3 +19,7 @@ My focus for this round of 100 days of code challenge is to reacquaint myself ab
 **Today's Progress**: Started with Basic CSS.
 
 **Thoughts:** Started with reviewing CSS now and I reached lesson 16/44 on this session
+
+### Cancelled: December 23. 2019 Monday
+
+**Thoughts:** This round of 100 days of code will be cancelled because of a change in focus/priorities. I think I need to focus more on Xamarin, C# and Prism since it is the language I use @ work and I need to dig deeper on this and learn more about my current project's architecture. I know I can resume this course anytime when I feel more confident and capable on this new focus.
